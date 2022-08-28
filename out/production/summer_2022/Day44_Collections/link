@@ -1,0 +1,7 @@
+1-linked list birbirine bagli dmemek.
+
+2-eklmem cikarmada hizli
+3-yeni leaman ratgele bir yere girer
+ilk elaman her zaman headdir ve head da data yoktur  sadece adres vardir
+2-son elaman null ipoint eder
+her elamanin icinde data ve adress olmak uzere iki kisim vardir

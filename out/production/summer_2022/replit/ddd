@@ -1,0 +1,8 @@
+public abstract  void sirketIsmi();
+      public  abstract void Adres();
+      public abstract void isim ();
+      public  abstract void  soyisim();
+      public  abstract void telefon();
+      public  abstract void iseBsTari();
+      public  abstract void SigortaGunu();
+      public abstract void personelNo();

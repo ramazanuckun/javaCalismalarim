@@ -1,0 +1,17 @@
+1-Bir class i Avstract yapip yapmamaya bastan karar veiririz.Bir class tan obje olusturmayacak isek  occlassi sadece child
+class larinin uymasi gereken kurallari belirleyecek sekilde dizayn etmek istiyorsak
+Abstrack class yapariz
+
+2-Abstrack bir class ta child class larin mutlaka uymasi gereken kurallari Abstract methodlar ile be;lirleriz
+Abstract methodlar mutlaka child class larda override edilecegi icin bady e ihtiyac duymaz.
+3-Abstract olarak isaretlenen methohodlarin bady si olmaz.
+4-Abstract class zincirinden sonra gelen ilk concrete class parent larinda olan ve concrete olmayan tum methodlari override etmek zorundadir.
+5-Abstract class larda obj olusturlamaz.constructur var ama kisirlastirlmis.
+6-abstract bir class in abstract bir child i parenttaki abstract methodlari override etmek zorunda degildir.
+7-Paren abstract class larda concrete methodlari override etmek zorunda degildir.
+8-Slayt 8.sayfaa onemli concrete edildiginde abstract yeni ozelligi ile gorunur.onemli
+Abstract silsileden gelen  cok onemli tekrar dinleeeee.ilk ders son dkkalar
+tE eror hatasi olmaz cunlu concrete edillmeyen bir tane kaldi/
+9-Bir classs i bir interface child yapmak icin implement keyworld kullanilir,
+  imoplement yazdiktan sonra virgul kullanarak istenilen kadar interface
+  ekleyebiliriz.
