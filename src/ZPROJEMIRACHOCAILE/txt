@@ -1,0 +1,5 @@
+--notlar kisa kisa
+1.Neden leng -1 cunku leng dersek uzunluk alir leng-1
+ son karakteri alir
+ 2-immutable mutable uzeinde duryoruz
+ Not=Cok fazla ekleme cikarma yapacaksak immutable yerine mutable ile calismailyiz

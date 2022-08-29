@@ -116,3 +116,4 @@ satir.map(t->t.split(" ")).
                 flatMap(Arrays::stream). kelimelere ulasmamizi saglar
      */
 }
+
